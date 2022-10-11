@@ -1,1 +1,1 @@
-alert（Hello,yudai!）;
+alert('Hello, Yudai!');
