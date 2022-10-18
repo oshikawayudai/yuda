@@ -1,2 +1,3 @@
-function cometaro66() {alert('太郎が来た')}
-function comehanako66() {alert('花子が来た')}
+var who67='world';
+function sayhello67(){alert('Hello,'+who67+'!');}
+function someone(x){who67=x;}
